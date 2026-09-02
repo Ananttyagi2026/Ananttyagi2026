@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | 🎓 Student | 🚀 Builder
 
-Welcome to my personal information repository.
+Welcome to my personal information repository! 🚀
 
 I'm a **software developer and student** interested in building practical **web, mobile, desktop, and AI-powered applications**.
 
